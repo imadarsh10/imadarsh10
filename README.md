@@ -1,4 +1,4 @@
-About Me:
+
 I'm a passionate Front-End Developer specializing in building clean, modular, and scalable user interfaces. I have experience with modern web technologies like HTML, CSS, JavaScript, and various frameworks/libraries.<br><br>Currently Learning:<br>I'm expanding my skillset to become a full-stack developer by diving into Java and related technologies like Maven and Spring Boot.
 
 
